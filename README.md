@@ -1,0 +1,1 @@
+# aa11-sequelize-insert-with-associations
